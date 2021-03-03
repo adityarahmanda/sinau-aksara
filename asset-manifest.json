@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sinau-aksara/static/css/main.345caf39.chunk.css",
+    "main.js": "/sinau-aksara/static/js/main.bc4bbb94.chunk.js",
+    "main.js.map": "/sinau-aksara/static/js/main.bc4bbb94.chunk.js.map",
+    "runtime-main.js": "/sinau-aksara/static/js/runtime-main.305274b3.js",
+    "runtime-main.js.map": "/sinau-aksara/static/js/runtime-main.305274b3.js.map",
+    "static/js/2.d82c74a0.chunk.js": "/sinau-aksara/static/js/2.d82c74a0.chunk.js",
+    "static/js/2.d82c74a0.chunk.js.map": "/sinau-aksara/static/js/2.d82c74a0.chunk.js.map",
+    "index.html": "/sinau-aksara/index.html",
+    "static/css/main.345caf39.chunk.css.map": "/sinau-aksara/static/css/main.345caf39.chunk.css.map",
+    "static/js/2.d82c74a0.chunk.js.LICENSE.txt": "/sinau-aksara/static/js/2.d82c74a0.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/sinau-aksara/static/media/noto2.af8ed125.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.305274b3.js",
+    "static/js/2.d82c74a0.chunk.js",
+    "static/css/main.345caf39.chunk.css",
+    "static/js/main.bc4bbb94.chunk.js"
+  ]
+}
