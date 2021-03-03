@@ -1,0 +1,28 @@
+{
+  "quiz": [
+    {
+      "theme" : "Arane Kewan", 
+      "level": [ 
+        ["babi","baya","cecak","coro","dara","pé","kupu","kura","bébék","bulus","tikus","yuyu"],
+        ["ampal","banyak","céléng","gundhik","ménthok","menjangan","nyambik","tongkol","lintah","lingsang","kalajengking","kucing","bandeng"],
+        ["brati","emprit","jangkrik","kremi","kemangga","kwangwung","tambra","pleting","kintel","sembilang"]
+      ]     
+    },
+    {
+      "theme" : "Arane Kembang", 
+      "level": [ 
+        ["Maya","Limaran","Kadi","Juwis","Rejasa","Pudhak","Menik","Babal","Karuk"],
+        ["Ontong","Onthél","Pendul","Mayang","Kecuwis","Sinuwun","Cethéthét","Kepek","Besengut","Naknik","Gadhing","Manggar"],
+        ["Dlongop","Puspanyindra","Gremeng","Blanggréng","Ingklik","Montro","Drengés","Gleges","Nyrewetéh","Krosak"]
+      ]     
+    },
+    {
+      "theme" : "Arane Panggonan", 
+      "level": [ 
+        ["balemangu","bango","bangsal","béténg","bothékan","epok","gedhongan","gowok","segaran","pawon","gubug"],
+        ["endhong","esong","gayor","gerdhu","glodhog","pendhopo","lumbung","gudhang","kedhaton","kombong","langgar","stasiun","tambak"],
+        ["clunthang","gréja","grobog","kraton","krangkéng","pasantrén","pasanggrahan","plegukan","wrangka"]
+      ]     
+    }
+  ]
+}
